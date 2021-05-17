@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/share-videos/static/css/main.0ae198a8.chunk.css",
+    "main.js": "/share-videos/static/js/main.d0dd56f9.chunk.js",
+    "main.js.map": "/share-videos/static/js/main.d0dd56f9.chunk.js.map",
+    "runtime-main.js": "/share-videos/static/js/runtime-main.7a111fc4.js",
+    "runtime-main.js.map": "/share-videos/static/js/runtime-main.7a111fc4.js.map",
+    "static/css/2.97503911.chunk.css": "/share-videos/static/css/2.97503911.chunk.css",
+    "static/js/2.928ef4d2.chunk.js": "/share-videos/static/js/2.928ef4d2.chunk.js",
+    "static/js/2.928ef4d2.chunk.js.map": "/share-videos/static/js/2.928ef4d2.chunk.js.map",
+    "index.html": "/share-videos/index.html",
+    "static/css/2.97503911.chunk.css.map": "/share-videos/static/css/2.97503911.chunk.css.map",
+    "static/css/main.0ae198a8.chunk.css.map": "/share-videos/static/css/main.0ae198a8.chunk.css.map",
+    "static/js/2.928ef4d2.chunk.js.LICENSE.txt": "/share-videos/static/js/2.928ef4d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a111fc4.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.928ef4d2.chunk.js",
+    "static/css/main.0ae198a8.chunk.css",
+    "static/js/main.d0dd56f9.chunk.js"
+  ]
+}
